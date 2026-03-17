@@ -14,8 +14,7 @@
 
 ## 👤 Author
 
-**Charles Nwachukwu** · Nigeria 🇳🇬
-Built with Claude Code & Visual Studio Code
+**Charles Nwachukwu** 
 
 ---
 
